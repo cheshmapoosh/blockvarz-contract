@@ -1,0 +1,5 @@
+network: ropsten
+accountname: chamrosh
+address: [0x462aEF3e089400f689e247F51C7E87a665d45bCf]
+
+private key: 45c8b4b78c907d35c1aff022eaeb2cafdd56075e48ed7202d2198dd5ecf67f3c
